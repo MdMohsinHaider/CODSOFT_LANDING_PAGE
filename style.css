@@ -58,6 +58,9 @@ nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    background-color: rgba(0, 0, 0, 0.205);
+    height: 130px;
+    border-radius: 50px;
 }
 
 .nav__logo a {
