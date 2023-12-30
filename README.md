@@ -30,7 +30,7 @@ Installation
 Clone the repository:
 
 ## git clone 
-https://github.com/your-username/mohsin-tours-and-travels.git
+https://github.com/MdMohsinHaider/CODSOFT_LANDING_PAGE.git
 Open the project in your preferred text editor.
 
 ## Usage
